@@ -1,6 +1,6 @@
 🐾 BC WildWatch™ – Campus Animal Safety Reporting App
 
-Belgium Campus ITversity – INL201 & INL202 Project Milestone 2
+Belgium Campus ITversity – INL201 & INL202 Project
 Academic Year: 2025
 
 BC WildWatch™ is a campus-wide animal safety reporting system that allows students to quickly report sightings of potentially dangerous or nuisance animals on campus — including snakes, bees, stray dogs, ants, lizards, and more.
@@ -18,7 +18,6 @@ This project was completed by a team of 10 students as part of the Innovation & 
 
 🤖 Gemini Chatbot Integration (My Work)
 
-🏗 System Architecture
 
 📸 Screenshots
 
@@ -213,7 +212,7 @@ Reset(txtUserInput);
 ![Flow](images/flow2.png)
 
 🖼 Chatbot Working Example
-![Chat Example](images/chat_example.png)
+![Chat Example](images/interaction.png)
 
 🚀 How to Run the Solution
 1. Import the Power App
