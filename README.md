@@ -203,24 +203,14 @@ Set(
 
 Reset(txtUserInput);
 
-🏗 System Architecture
-User → Power App → Power Automate → Gemini API → Power Automate → Power App
 
-High-Level Diagram (Replace with actual image)
-![Architecture Diagram](images/architecture.png)
-
-📸 Screenshots
-
-Add your screenshots into an /images folder inside the repo.
 
 🖼 Chat Interface
-![Chat UI](images/chat_ui.png)
+![Chat UI](images/chatbot.png)
 
 🖼 Power Automate Flow
-![Flow](images/flow.png)
-
-🖼 Parse JSON Output
-![Parse JSON](images/json.png)
+![Flow](images/flow1.png)
+![Flow](images/flow2.png)
 
 🖼 Chatbot Working Example
 ![Chat Example](images/chat_example.png)
